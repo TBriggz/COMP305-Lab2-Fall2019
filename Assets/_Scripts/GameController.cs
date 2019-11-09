@@ -128,7 +128,7 @@ public class GameController : MonoBehaviour
 
         {
             //Checks if the main scene settings are active and sets up initial lives and score
-            if(activeSceneSettings.scene == Scene.START)
+            if(activeSceneSettings.scene == Scene.MAIN)
             {
                 Lives = 5;
                 Score = 0;
