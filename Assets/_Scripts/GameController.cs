@@ -1,4 +1,6 @@
-﻿using System;
+﻿[Header("Tristen Briggs - 300827034")]
+
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

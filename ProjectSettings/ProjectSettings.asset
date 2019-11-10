@@ -593,7 +593,7 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
-    Collab: 1
+    Collab: 0
     UNet: 1
   luminIcon:
     m_Name: 
@@ -614,10 +614,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: a5c83a61-e82c-4bec-9388-3f64e8e005b5
+  cloudProjectId: dfef04e0-d158-4ed2-9aa1-df222c00e2e5
   framebufferDepthMemorylessMode: 0
   projectName: COMP305-F2019-Lesson2B
-  organizationId: tom-tsiliopoulos
+  organizationId: skaterbriggz
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
